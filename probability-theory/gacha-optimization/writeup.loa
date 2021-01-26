@@ -1,0 +1,10 @@
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {1}{\ignorespaces Prefix sum of a list\relax }}{7}{algorithm.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {2}{\ignorespaces Sampling from a random variable in \( O(\log n) \)\relax }}{11}{algorithm.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {3}{\ignorespaces Capped expected value\relax }}{12}{algorithm.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {4}{\ignorespaces Fast exponentiation\relax }}{15}{algorithm.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {algorithm}{\numberline {5}{\ignorespaces Fractional batching model\relax }}{16}{algorithm.5}%
